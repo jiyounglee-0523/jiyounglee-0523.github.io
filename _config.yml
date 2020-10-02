@@ -56,7 +56,7 @@ header:
   pages:
     - name: Home
       slug: /     # <-- index.md
-    # - name:   # <-- whatever.md
+    - name: Blog  # <-- whatever.md
 
 footer:
   show_powered_by: true
