@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jiyounglee-0523.github.io/sitemap.xml
