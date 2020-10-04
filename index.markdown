@@ -15,12 +15,13 @@ profile_picture:
 
 <p>
 <h2> Publication</h2>
-#<h3> <strong>2019</strong> </h3>
-#<i>Breast Cancer Subtype Classification utilizing Multi-Omics Data Integration based on Neural Network</i>
-#<br />
-#Joungmin Choi, <b>Jiyoung Lee</b>, Jieun Kim, Jihyun Kim, Heejoon Chae  
-#<br />
-#<span style="color:gray">Journal of Korean Institute of Information Scientists and Engineers (JOK), VOL 46 NO. 02 PP. 0476 ~ 0478 2019. 12</span>  
-#<a href="http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09301626">[DBpia]</a>
-
+<!--
+<h3> <strong>2019</strong> </h3>
+<i>Breast Cancer Subtype Classification utilizing Multi-Omics Data Integration based on Neural Network</i>
+<br />
+Joungmin Choi, <b>Jiyoung Lee</b>, Jieun Kim, Jihyun Kim, Heejoon Chae  
+<br />
+<span style="color:gray">Journal of Korean Institute of Information Scientists and Engineers (JOK), VOL 46 NO. 02 PP. 0476 ~ 0478 2019. 12</span>  
+<a href="http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09301626">[DBpia]</a>
+-->
 </p>
