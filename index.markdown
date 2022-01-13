@@ -9,8 +9,9 @@ profile_picture:
   I'm a M.S student at KAIST Graduate School of AI, advised by Professor <a href="https://mp2893.com/">Edward Choi</a>.
   <br />
   <br />
-  I'm interested in Multi-Modality, Score-Based Models, NLP and Healthcare. I hope to make a generative and understanding model that incorporates multiple modality that can be useful in real world.
+  I'm interested in Multi-Modality, Score-Based Models, NLP and Healthcare. I hope to make a generative and understanding model that incorporates multiple modalities that can be useful in real world.
 </p>
+
 
 
 <p>
