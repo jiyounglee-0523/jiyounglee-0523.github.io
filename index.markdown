@@ -27,7 +27,7 @@ Joungmin Choi, <b>Jiyoung Lee</b>, Jieun Kim, Jihyun Kim, Heejoon Chae
 -->
 </p>
 
-Naver Corporation - Papago Team (advised by <a href="https://cbokpark.github.io/">Cheonbok Park</a>)  <div style="text-align: right"> *Feb - Aug 2022* </div>
+Naver Corporation - Papago Team, advised by <a href="https://cbokpark.github.io/">Cheonbok Park</a>  (*Feb - Aug 2022*)
 
 
 
