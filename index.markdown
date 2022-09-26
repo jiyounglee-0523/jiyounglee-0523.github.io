@@ -11,25 +11,25 @@ profile_picture:
   <br />
   I'm interested in Reliability, NLP and healthcare. I hope to make a reliable model that can be used safely in real world. Feel free to contact me!
 </p>
-
 [<a href="https://scholar.google.com/citations?user=1TtwcikAAAAJ&hl=ko">Google Scholar</a>] [<a href="https://github.com/jiyounglee-0523">Github</a>] [<a href="https://drive.google.com/file/d/1stHJYQSJtlDBzrMVIzZMcZNp7Tvv-WG2/view?usp=sharing">CV</a>]
 
 
 
+&nbsp; 
+
+&nbsp;
 
 <p>
-<h2> Work Experience</h2>
-<!--
-<h3> <strong>2019</strong> </h3>
-<i>Breast Cancer Subtype Classification utilizing Multi-Omics Data Integration based on Neural Network</i>
-<br />
-Joungmin Choi, <b>Jiyoung Lee</b>, Jieun Kim, Jihyun Kim, Heejoon Chae  
-<br />
-<span style="color:gray">Journal of Korean Institute of Information Scientists and Engineers (JOK), VOL 46 NO. 02 PP. 0476 ~ 0478 2019. 12</span>  
-<a href="http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09301626">[DBpia]</a>
--->
+<h2> <strong>Work Experience</strong></h2>
 </p>
+
 [*Feb - Aug 2022*] Naver Corporation - Papago Team, advised by <a href="https://cbokpark.github.io/">Cheonbok Park</a> 
+
+
+
+&nbsp;
+
+&nbsp;
 
 
 
