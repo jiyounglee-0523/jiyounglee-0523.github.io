@@ -33,7 +33,7 @@ profile_picture:
 
 ### 2021
 
-- **Jiyoung Lee**, Wonjae  Kim,  Daehoon  Gwak,  and  Edward  Choi.  <a href="https://arxiv.org/abs/2110.12365">Conditional  Generation  of  Periodic  Signals  with Fourier-Based Decoder.</a> *In Deep Generative Models and Downstream Applications Workshop at NeurIPS 2021*
+- **Jiyoung Lee**, Wonjae  Kim,  Daehoon  Gwak,  and  Edward  Choi.  <a href="https://arxiv.org/abs/2110.12365">Conditional  Generation  of  Periodic  Signals  with Fourier-Based Decoder.</a> *In Deep Generative Models and Downstream Applications Workshop at NeurIPS 2021*  (<a href="https://github.com/jiyounglee-0523/FourierDecoder">Code</a>)
 
 - Woncheol Shin, Gyubok Lee, **Jiyoung Lee**, Joonseok Lee, Edward Choi. <a href="https://arxiv.org/abs/2112.00384">Translation-equivariant Image Quantizer for Bi-directional Image-Text Generation.</a> 2021 arXiv:2112.00384
 
