@@ -13,11 +13,7 @@ profile_picture:
 </p>
 [<a href="https://scholar.google.com/citations?user=1TtwcikAAAAJ&hl=ko">Google Scholar</a>] [<a href="https://github.com/jiyounglee-0523">Github</a>] [<a href="https://drive.google.com/file/d/1stHJYQSJtlDBzrMVIzZMcZNp7Tvv-WG2/view?usp=sharing">CV</a>]
 
-
-
 &nbsp; 
-
-&nbsp;
 
 <p>
 <h2> <strong>Work Experience</strong></h2>
@@ -25,13 +21,7 @@ profile_picture:
 
 [*Feb - Aug 2022*] Naver Corporation - Papago Team, advised by <a href="https://cbokpark.github.io/">Cheonbok Park</a> 
 
-
-
 &nbsp;
-
-&nbsp;
-
-
 
 <p>
 <h2> <strong>Publication</strong></h2>
