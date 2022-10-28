@@ -28,44 +28,21 @@ profile_picture:
 
 ### 2022
 
-- [Specializing Multi-domain NMT via Penalizing Low Mutual Information](https://arxiv.org/abs/2210.12910)
+- **Jiyoung Lee**, Hantae Kim, Hyunchang Cho, Edward Choi, Cheonbok Park. [Specializing Multi-domain NMT via Penalizing Low Mutual Information](https://arxiv.org/abs/2210.12910). *In Proc. of Empirical Methods in Natural Language Processing (EMNLP) 2022*
+- Radhika Dua, **Jiyoung Lee**, Joon-myung Kwon, Edward Choi. [Automatic Detection of Noisy Electrocardiogram Signals without Explicit Noise Labels](https://arxiv.org/abs/2208.08853). *In International Workshop on Pattern Recognition in Healthcare Analytics (PRHA)* 2022
 
-  **Jiyoung Lee**, Hantae Kim, Hyunchang Cho, Edward Choi, Cheonbok Park
+- Kyunghoon Hur∗, **Jiyoung Lee**∗, Jungwoo Oh, Wesley Price, Young-Hak Kim, Edward Choi. <a href="https://arxiv.org/abs/2108.03625">Unifying Heterogenous Electronic Health Records Systems via Text-Based Code Embedding</a>. *In Proc. of Conference on Health, Inference, and Learning (CHIL) 2022*  [<a href="https://github.com/hoon9405/DescEmb">Code</a>]
 
-  *In Proc. of Empirical Methods in Natural Language Processing (EMNLP) 2022*
-
-&nbsp;
-
-- <a href="https://arxiv.org/abs/2108.03625">Unifying Heterogenous Electronic Health Records Systems via Text-Based Code Embedding.</a>
-
-  Kyunghoon Hur∗, **Jiyoung Lee**∗, Jungwoo Oh, Wesley Price, Young-Hak Kim, Edward Choi
-
-  *In Proc. of Conference on Health, Inference, and Learning (CHIL) 2022*  [<a href="https://github.com/hoon9405/DescEmb">Code</a>]
-  
   &nbsp;
 
 ### 2021
 
-- <a href="https://arxiv.org/abs/2110.12365">Conditional  Generation  of  Periodic  Signals  with Fourier-Based Decoder.</a>
+- **Jiyoung Lee**, Wonjae Kim, Daehoon Gwak, Edward Choi. <a href="https://arxiv.org/abs/2110.12365">Conditional  Generation  of  Periodic  Signals  with Fourier-Based Decoder</a>. *In Deep Generative Models and Downstream Applications Workshop at NeurIPS 2021*  [<a href="https://github.com/jiyounglee-0523/FourierDecoder">Code</a>]
 
-  **Jiyoung Lee**, Wonjae Kim, Daehoon Gwak, Edward Choi
-
-  *In Deep Generative Models and Downstream Applications Workshop at NeurIPS 2021*  [<a href="https://github.com/jiyounglee-0523/FourierDecoder">Code</a>]
-
-  &nbsp;
-
-- <a href="https://arxiv.org/abs/2112.00384">Translation-equivariant Image Quantizer for Bi-directional Image-Text Generation.</a>
-
-  Woncheol Shin, Gyubok Lee, **Jiyoung Lee**, Joonseok Lee, Edward Choi
-
-  Preprint
+- Woncheol Shin, Gyubok Lee, **Jiyoung Lee**, Joonseok Lee, Edward Choi. <a href="https://arxiv.org/abs/2112.00384">Translation-equivariant Image Quantizer for Bi-directional Image-Text Generation</a>. arXiv:2112.00384
 
   &nbsp;
 
 ### 2019
 
-- Breast Cancer Subtype Classification utilizing Multi-Omics Data Integration based on Neural Network
-
-  Joungmin Choi, **Jiyoung Lee**, Jieun Kim, Jihyun Kim, Heejoon Chae
-
-  *In Journal of Korean Institute of Information Scientists and Engineers (JOK), VOL 46 NO. 02 PP. 0476  0478 2019. 12*
+- Joungmin Choi, **Jiyoung Lee**, Jieun Kim, Jihyun Kim, Heejoon Chae, Breast Cancer Subtype Classification utilizing Multi-Omics Data Integration based on Neural Network. *In Journal of Korean Institute of Information Scientists and Engineers (JOK), VOL 46 NO. 02 PP. 0476  0478 2019. 12*
