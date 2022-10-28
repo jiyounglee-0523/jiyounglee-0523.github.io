@@ -29,7 +29,12 @@ profile_picture:
 ### 2022
 
 - **Jiyoung Lee**, Hantae Kim, Hyunchang Cho, Edward Choi, Cheonbok Park. [Specializing Multi-domain NMT via Penalizing Low Mutual Information](https://arxiv.org/abs/2210.12910). *In Proc. of Empirical Methods in Natural Language Processing (EMNLP) 2022*
-- Radhika Dua, **Jiyoung Lee**, Joon-myung Kwon, Edward Choi. [Automatic Detection of Noisy Electrocardiogram Signals without Explicit Noise Labels](https://arxiv.org/abs/2208.08853). *In International Workshop on Pattern Recognition in Healthcare Analytics (PRHA)* 2022
+
+  
+
+- Radhika Dua, **Jiyoung Lee**, Joon-myung Kwon, Edward Choi. [Automatic Detection of Noisy Electrocardiogram Signals without Explicit Noise Labels](https://arxiv.org/abs/2208.08853). *In International Workshop on Pattern Recognition in Healthcare Analytics (PRHA) 2022*
+
+  
 
 - Kyunghoon Hur∗, **Jiyoung Lee**∗, Jungwoo Oh, Wesley Price, Young-Hak Kim, Edward Choi. <a href="https://arxiv.org/abs/2108.03625">Unifying Heterogenous Electronic Health Records Systems via Text-Based Code Embedding</a>. *In Proc. of Conference on Health, Inference, and Learning (CHIL) 2022*  [<a href="https://github.com/hoon9405/DescEmb">Code</a>]
 
