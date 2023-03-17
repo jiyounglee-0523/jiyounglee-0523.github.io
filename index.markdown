@@ -25,6 +25,11 @@ profile_picture:
 <p>
 <h2> <strong>Publication</strong></h2>
 </p>
+### 2023
+
+- Woncheol Shin, Gyubok Lee, **Jiyoung Lee**, Eunyi Lyou, Joonseok Lee, Edward Choi. <a href="https://arxiv.org/abs/2112.00384">Translation-equivariant Image Quantizer for Bi-directional Image-Text Generation</a>. *In Proc. of International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2023*
+
+
 
 ### 2022
 
@@ -39,8 +44,6 @@ profile_picture:
 ### 2021
 
 - **Jiyoung Lee**, Wonjae Kim, Daehoon Gwak, Edward Choi. <a href="https://arxiv.org/abs/2110.12365">Conditional  Generation  of  Periodic  Signals  with Fourier-Based Decoder</a>. *In Deep Generative Models and Downstream Applications Workshop at NeurIPS 2021*  [<a href="https://github.com/jiyounglee-0523/FourierDecoder">Code</a>]
-
-- Woncheol Shin, Gyubok Lee, **Jiyoung Lee**, Joonseok Lee, Edward Choi. <a href="https://arxiv.org/abs/2112.00384">Translation-equivariant Image Quantizer for Bi-directional Image-Text Generation</a>. arXiv:2112.00384
 
   &nbsp;
 
