@@ -6,11 +6,12 @@ profile_picture:
 ---
 
 <p>
-  I'm a M.S student at KAIST Graduate School of AI, advised by Professor <a href="https://mp2893.com/">Edward Choi</a>.
+  I'm a phD student at KAIST Graduate School of AI, advised by Professor <a href="https://mp2893.com/">Edward Choi</a>.
   <br />
   <br />
   I'm interested in Reliability, NLP and healthcare. I hope to make a reliable model that can be used safely in real world. Feel free to contact me!
 </p>
+
 [<a href="https://scholar.google.com/citations?user=1TtwcikAAAAJ&hl=ko">Google Scholar</a>] [<a href="https://github.com/jiyounglee-0523">Github</a>] [<a href="https://jiyounglee-0523.github.io/assets/CV.pdf">CV</a>]
 
 &nbsp; 
@@ -18,7 +19,9 @@ profile_picture:
 <p>
 <h2> <strong>Work Experience</strong></h2>
 </p>
-[*Feb - Aug 2022*] NAVER Corporation - Papago Team, advised by <a href="https://cbokpark.github.io/">Cheonbok Park</a> 
+[*Sep 2023 - Present*] SelectStar AI NLP Team Advisory Committee Member
+
+[*Feb - Aug 2022*] NAVER Corporation - Papago Team
 
 &nbsp;
 
@@ -26,6 +29,8 @@ profile_picture:
 <h2> <strong>Publication</strong></h2>
 </p>
 ### 2023
+
+- **Jiyoung Lee**, Seungho Kim, Seunghyun Won, Joonseok Lee, Marzyeh Ghassemi, James Thorne, Jaeseok Choi, O-Kil Kwon, and Edward Choi. [VisAlign: Dataset for Measuring the Degree of Alignment between AI and Humans in Visual Perception](https://arxiv.org/abs/2308.01525). *In Proc. of Neural Information Processing Systems (NeurIPS) 2023 Datasets and Benchmarks*
 
 - Woncheol Shin, Gyubok Lee, **Jiyoung Lee**, Eunyi Lyou, Joonseok Lee, Edward Choi. <a href="https://arxiv.org/abs/2112.00384">Translation-equivariant Image Quantizer for Bi-directional Image-Text Generation</a>. *In Proc. of International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2023*
 
