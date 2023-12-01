@@ -19,9 +19,15 @@ profile_picture:
 <p>
 <h2> <strong>Work Experience</strong></h2>
 </p>
-[*Sep 2023 - Present*] SelectStar AI NLP Team Advisory Committee Member
+[*Feb - Aug 2022*] Research Intern at NAVER Corporation Papago Team
 
-[*Feb - Aug 2022*] NAVER Corporation - Papago Team
+&nbsp;
+
+<p>
+<h2> <strong>Professional Service</strong></h2>
+</p>
+
+[*Sep 2023 - Present*] Advisory Committee Member at SelectStar AI NLP Team 
 
 &nbsp;
 
