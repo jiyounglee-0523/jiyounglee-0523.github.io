@@ -41,8 +41,9 @@ profile_picture:
 <p>
     &#x25cf; <a href="https://arxiv.org/abs/2308.01525">VisAlign: Dataset for Measuring the Degree of Alignment between AI and Humans in Visual Perception</a><br>
     <div><div><div><div><div><div><div><div><div><b>Jiyoung Lee</b>, Seungho Kim, Seunghyun Won, Joonseok Lee, Marzyeh Ghassemi, James Thorne, Jaeseok Choi, O-Kil Kwon, and Edward Choi.
-
 </p>
+
+
 
 - [VisAlign: Dataset for Measuring the Degree of Alignment between AI and Humans in Visual Perception](https://arxiv.org/abs/2308.01525)
 
