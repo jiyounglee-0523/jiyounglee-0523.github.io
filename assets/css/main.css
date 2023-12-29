@@ -2,7 +2,7 @@
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; -webkit-font-smoothing: antialiased; }
 
 /** Basic styling */
-body { font-family: Charter, Georgia, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.0; font-weight: 300; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
+body { font-family: Charter, Georgia, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.7; font-weight: 300; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure { margin-bottom: 15px; }
@@ -16,7 +16,7 @@ figure > img { display: block; }
 figcaption { font-size: 12.25px; }
 
 /** Lists */
-ul, ol { margin-left: 30px; }
+ul, ol { margin-left: 30px; line-height: 1.0}
 
 li > ul, li > ol { margin-bottom: 0; }
 
