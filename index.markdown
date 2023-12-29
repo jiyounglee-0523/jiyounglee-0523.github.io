@@ -14,7 +14,6 @@ profile_picture:
   <br />
   e-mail: jiyounglee0523 at kaist.ac.kr
 </p>
-
 [<a href="https://scholar.google.com/citations?user=1TtwcikAAAAJ&hl=ko">Google Scholar</a>] [<a href="https://github.com/jiyounglee-0523">Github</a>] [<a href="https://jiyounglee-0523.github.io/assets/CV.pdf">CV</a>]
 
 &nbsp; 
@@ -37,6 +36,8 @@ profile_picture:
 <h2> <strong>Publication</strong></h2>
 </p>
 ### 2023
+
+2:41
 
 - [VisAlign: Dataset for Measuring the Degree of Alignment between AI and Humans in Visual Perception](https://arxiv.org/abs/2308.01525)
 
