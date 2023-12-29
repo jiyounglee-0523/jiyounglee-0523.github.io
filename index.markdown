@@ -37,19 +37,37 @@ profile_picture:
 </p>
 ### 2023
 
-2:55
+<p>
+    <ul>
+    <li>
+        <a href="https://arxiv.org/abs/2308.01525">VisAlign: Dataset for Measuring the Degree of Alignment between AI and Humans in Visual Perception</a>
+        <br />
+        <b>Jiyoung Lee</b>, Seungho Kim, Seunghyun Won, Joonseok Lee, Marzyeh Ghassemi, James Thorne, Jaeseok Choi, O-Kil Kwon, and Edward Choi
+        <br />
+        <i>In Proc. of Neural Information Processing Systems (NeurIPS) 2023 Datasets and Benchmarks</i>
+        <br />
+        [<a href="https://github.com/jiyounglee-0523/VisAlign">Code</a>]
+        [<a href="https://jiyounglee-0523.github.io/assets/posters/VisAlign.pdf">Poster</a>]
+        [<a href="https://jiyounglee-0523.github.io/assets/slides/VisAlign.pdf">Slides</a>]
+        </li>
+</ul>
+</p>
 
-- [VisAlign: Dataset for Measuring the Degree of Alignment between AI and Humans in Visual Perception](https://arxiv.org/abs/2308.01525)
+<p>
+    <ul>
+    <li>
+        <a href="https://arxiv.org/abs/2112.00384">Translation-equivariant Image Quantizer for Bi-directional Image-Text Generation</a>
+        <br />
+        Woncheol Shin, Gyubok Lee, <b>Jiyoung Lee</b>, Eunyi Lyou, Joonseok Lee, Edward Choi
+        <br />
+        <i>In Proc. of International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2023</i>
+        </li>
+</ul>
+</p>
 
-  **Jiyoung Lee**, Seungho Kim, Seunghyun Won, Joonseok Lee, Marzyeh Ghassemi, James Thorne, Jaeseok Choi, O-Kil Kwon, and Edward Choi.
 
-  *In Proc. of Neural Information Processing Systems (NeurIPS) 2023 Datasets and Benchmarks*
 
-  [[Code](https://github.com/jiyounglee-0523/VisAlign)] [<a href="https://jiyounglee-0523.github.io/assets/posters/VisAlign.pdf">Poster</a>] [<a href="https://jiyounglee-0523.github.io/assets/slides/VisAlign.pdf">Slides</a>]
-
-  
-
-- Woncheol Shin, Gyubok Lee, **Jiyoung Lee**, Eunyi Lyou, Joonseok Lee, Edward Choi. <a href="https://arxiv.org/abs/2112.00384">Translation-equivariant Image Quantizer for Bi-directional Image-Text Generation</a>. *In Proc. of International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2023*
+3:08
 
 
 
