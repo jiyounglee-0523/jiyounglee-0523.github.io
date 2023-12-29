@@ -40,15 +40,15 @@ profile_picture:
 <p>
     <ul>
     <li>
-        <a href="https://arxiv.org/abs/2308.01525">VisAlign: Dataset for Measuring the Degree of Alignment between AI and Humans in Visual Perception</a>
+        <a href="https://arxiv.org/abs/2308.01525"><font size ="5em">VisAlign: Dataset for Measuring the Degree of Alignment between AI and Humans in Visual Perception</font></a>
         <br />
-        <b>Jiyoung Lee</b>, Seungho Kim, Seunghyun Won, Joonseok Lee, Marzyeh Ghassemi, James Thorne, Jaeseok Choi, O-Kil Kwon, and Edward Choi
+        <b><u>Jiyoung Lee</u></b>, Seungho Kim, Seunghyun Won, Joonseok Lee, Marzyeh Ghassemi, James Thorne, Jaeseok Choi, O-Kil Kwon, Edward Choi
         <br />
         <i>In Proc. of Neural Information Processing Systems (NeurIPS) 2023 Datasets and Benchmarks</i>
         <br />
         [<a href="https://github.com/jiyounglee-0523/VisAlign">Code</a>]
         [<a href="https://jiyounglee-0523.github.io/assets/posters/VisAlign.pdf">Poster</a>]
-        [<a href="https://jiyounglee-0523.github.io/assets/slides/VisAlign.pdf">Slides</a>]
+        [<a href="https://jiyounglee-0523.github.io/assets/slides/VisAlign.pdf">Slide</a>]
         </li>
 </ul>
 </p>
@@ -56,9 +56,9 @@ profile_picture:
 <p>
     <ul>
     <li>
-        <a href="https://arxiv.org/abs/2112.00384">Translation-equivariant Image Quantizer for Bi-directional Image-Text Generation</a>
+        <a href="https://arxiv.org/abs/2112.00384"><font size ="5em">Translation-equivariant Image Quantizer for Bi-directional Image-Text Generation</font></a>
         <br />
-        Woncheol Shin, Gyubok Lee, <b>Jiyoung Lee</b>, Eunyi Lyou, Joonseok Lee, Edward Choi
+        Woncheol Shin, Gyubok Lee, <b><u>Jiyoung Lee</u></b>, Eunyi Lyou, Joonseok Lee, Edward Choi
         <br />
         <i>In Proc. of International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2023</i>
         </li>
@@ -67,26 +67,79 @@ profile_picture:
 
 
 
-3:08
-
-
-
 ### 2022
 
-- **Jiyoung Lee**, Hantae Kim, Hyunchang Cho, Edward Choi, Cheonbok Park. [Specializing Multi-domain NMT via Penalizing Low Mutual Information](https://arxiv.org/abs/2210.12910). *In Proc. of Empirical Methods in Natural Language Processing (EMNLP) 2022*  [<a href="https://jiyounglee-0523.github.io/assets/posters/EMNLP2022.pdf">Poster</a>]
+<p>
+    <ul>
+    <li>
+        <a href="https://arxiv.org/abs/2210.12910"><font size ="5em">Specializing Multi-domain NMT via Penalizing Low Mutual Information</font></a>
+        <br />
+        <b><u>Jiyoung Lee</u></b>, Hantae Kim, Hyunchang Cho, Edward Choi, Cheonbok Park
+        <br />
+        <i>In Proc. of Empirical Methods in Natural Language Processing (EMNLP) 2022</i>
+        <br /> 
+        [<a href="https://jiyounglee-0523.github.io/assets/posters/EMNLP2022.pdf">Poster</a>]
+        [<a href="https://jiyounglee-0523.github.io/assets/slides/EMNLP2022.pdf">Slide</a>]
+        </li>
+</ul>
+</p>
 
-- Kyunghoon Hur∗, **Jiyoung Lee**∗, Jungwoo Oh, Wesley Price, Young-Hak Kim, Edward Choi. <a href="https://arxiv.org/abs/2108.03625">Unifying Heterogenous Electronic Health Records Systems via Text-Based Code Embedding</a>. *In Proc. of Conference on Health, Inference, and Learning (CHIL) 2022*  [<a href="https://github.com/hoon9405/DescEmb">Code</a>]
+<p>
+    <ul>
+    <li>
+        <a href="https://arxiv.org/abs/2108.03625"><font size ="5em">Unifying Heterogenous Electronic Health Records Systems via Text-Based Code Embedding</font></a>
+        <br />
+        Kyunghoon Hur∗, <b><u>Jiyoung Lee</u></b>∗, Jungwoo Oh, Wesley Price, Young-Hak Kim, Edward Choi (* denotes equal contribution)
+        <br />
+        <i>In Proc. of Conference on Health, Inference, and Learning (CHIL) 2022</i>
+        <br /> 
+        [<a href="https://github.com/hoon9405/DescEmb">Code</a>]
+        </li>
+</ul>
+</p>
 
-- Radhika Dua, **Jiyoung Lee**, Joon-myung Kwon, Edward Choi. [Automatic Detection of Noisy Electrocardiogram Signals without Explicit Noise Labels](https://arxiv.org/abs/2208.08853). *In International Workshop on Pattern Recognition in Healthcare Analytics (PRHA) 2022*
+<p>
+    <ul>
+    <li>
+        <a href="https://arxiv.org/abs/2208.08853"><font size ="5em">Automatic Detection of Noisy Electrocardiogram Signals without Explicit Noise Labels</font></a>
+        <br />
+        Radhika Dua, <b><u>Jiyoung Lee</u></b>, Joon-myung Kwon, Edward Choi
+        <br />
+        <i>In International Workshop on Pattern Recognition in Healthcare Analytics (PRHA) 2022</i>
+        </li>
+</ul>
+</p>
 
-  &nbsp;
+&nbsp;
 
 ### 2021
 
-- **Jiyoung Lee**, Wonjae Kim, Daehoon Gwak, Edward Choi. <a href="https://arxiv.org/abs/2110.12365">Conditional  Generation  of  Periodic  Signals  with Fourier-Based Decoder</a>. *In Deep Generative Models and Downstream Applications Workshop at NeurIPS 2021*  [<a href="https://github.com/jiyounglee-0523/FourierDecoder">Code</a>]
+<p>
+    <ul>
+    <li>
+        <a href="https://arxiv.org/abs/2110.12365"><font size ="5em">Conditional  Generation  of  Periodic  Signals  with Fourier-Based Decoder</font></a>
+        <br />
+        <b><u>Jiyoung Lee</u></b>, Wonjae Kim, Daehoon Gwak, Edward Choi
+        <br />
+        <i>In Deep Generative Models and Downstream Applications Workshop at NeurIPS 2021</i>
+        <br />
+        [<a href="https://github.com/jiyounglee-0523/FourierDecoder">Code</a>]
+        </li>
+</ul>
+</p>
 
-  &nbsp;
+&nbsp;
 
 ### 2019
 
-- Joungmin Choi, **Jiyoung Lee**, Jieun Kim, Jihyun Kim, Heejoon Chae, Breast Cancer Subtype Classification utilizing Multi-Omics Data Integration based on Neural Network. *In Journal of Korean Institute of Information Scientists and Engineers (JOK), VOL 46 NO. 02 PP. 0476  0478 2019. 12*
+<p>
+    <ul>
+    <li>
+        <font size ="5em">Breast Cancer Subtype Classification utilizing Multi-Omics Data Integration based on Neural Network</font>
+        <br />
+        Joungmin Choi, <b><u>Jiyoung Lee</u></b>, Jieun Kim, Jihyun Kim, Heejoon Chae
+        <br />
+        <i>In Journal of Korean Institute of Information Scientists and Engineers (JOK), VOL 46 NO. 02 PP. 0476  0478 2019. 12</i>
+        </li>
+</ul>
+</p>
