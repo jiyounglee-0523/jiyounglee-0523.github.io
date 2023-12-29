@@ -16,7 +16,7 @@ profile_picture:
 </p>
 [<a href="https://scholar.google.com/citations?user=1TtwcikAAAAJ&hl=ko">Google Scholar</a>] [<a href="https://github.com/jiyounglee-0523">Github</a>] [<a href="https://jiyounglee-0523.github.io/assets/CV.pdf">CV</a>]
 
-&nbsp; 
+&nbsp;
 
 <p>
 <h2> <strong>Work Experience</strong></h2>
@@ -35,9 +35,10 @@ profile_picture:
 <p>
 <h2> <strong>Publication</strong></h2>
 </p>
-3:33
 
-### 2023
+<p>
+<h3> <strong>2023</strong></h3>
+</p>
 
 <p>
     <ul>
@@ -55,11 +56,10 @@ profile_picture:
 </ul>
 </p>
 
-
 <p>
     <ul>
     <li>
-        <a href="https://arxiv.org/abs/2112.00384"><font size ="5em">Translation-equivariant Image Quantizer for Bi-directional Image-Text Generation</font></a>
+        <a href="https://arxiv.org/abs/2112.00384">Translation-equivariant Image Quantizer for Bi-directional Image-Text Generation</a>
         <br />
         Woncheol Shin, Gyubok Lee, <b><u>Jiyoung Lee</u></b>, Eunyi Lyou, Joonseok Lee, Edward Choi
         <br />
@@ -70,12 +70,14 @@ profile_picture:
 
 
 
-### 2022
+<p>
+<h3> <strong>2022</strong></h3>
+</p>
 
 <p>
     <ul>
     <li>
-        <a href="https://arxiv.org/abs/2210.12910"><font size ="5em">Specializing Multi-domain NMT via Penalizing Low Mutual Information</font></a>
+        <a href="https://arxiv.org/abs/2210.12910">Specializing Multi-domain NMT via Penalizing Low Mutual Information</a>
         <br />
         <b><u>Jiyoung Lee</u></b>, Hantae Kim, Hyunchang Cho, Edward Choi, Cheonbok Park
         <br />
@@ -90,7 +92,7 @@ profile_picture:
 <p>
     <ul>
     <li>
-        <a href="https://arxiv.org/abs/2108.03625"><font size ="5em">Unifying Heterogenous Electronic Health Records Systems via Text-Based Code Embedding</font></a>
+        <a href="https://arxiv.org/abs/2108.03625">Unifying Heterogenous Electronic Health Records Systems via Text-Based Code Embedding</a>
         <br />
         Kyunghoon Hur∗, <b><u>Jiyoung Lee</u></b>∗, Jungwoo Oh, Wesley Price, Young-Hak Kim, Edward Choi (* denotes equal contribution)
         <br />
@@ -104,7 +106,7 @@ profile_picture:
 <p>
     <ul>
     <li>
-        <a href="https://arxiv.org/abs/2208.08853"><font size ="5em">Automatic Detection of Noisy Electrocardiogram Signals without Explicit Noise Labels</font></a>
+        <a href="https://arxiv.org/abs/2208.08853">Automatic Detection of Noisy Electrocardiogram Signals without Explicit Noise Labels</a>
         <br />
         Radhika Dua, <b><u>Jiyoung Lee</u></b>, Joon-myung Kwon, Edward Choi
         <br />
@@ -113,14 +115,17 @@ profile_picture:
 </ul>
 </p>
 
+
 &nbsp;
 
-### 2021
+<p>
+<h3> <strong>2021</strong></h3>
+</p>
 
 <p>
     <ul>
     <li>
-        <a href="https://arxiv.org/abs/2110.12365"><font size ="5em">Conditional  Generation  of  Periodic  Signals  with Fourier-Based Decoder</font></a>
+        <a href="https://arxiv.org/abs/2110.12365">Conditional  Generation  of  Periodic  Signals  with Fourier-Based Decoder</a>
         <br />
         <b><u>Jiyoung Lee</u></b>, Wonjae Kim, Daehoon Gwak, Edward Choi
         <br />
@@ -131,14 +136,17 @@ profile_picture:
 </ul>
 </p>
 
+
 &nbsp;
 
-### 2019
+<p>
+<h3> <strong>2019</strong></h3>
+</p>
 
 <p>
     <ul>
     <li>
-        <font size ="5em">Breast Cancer Subtype Classification utilizing Multi-Omics Data Integration based on Neural Network</font>
+        Breast Cancer Subtype Classification utilizing Multi-Omics Data Integration based on Neural Network
         <br />
         Joungmin Choi, <b><u>Jiyoung Lee</u></b>, Jieun Kim, Jihyun Kim, Heejoon Chae
         <br />
@@ -146,3 +154,4 @@ profile_picture:
         </li>
 </ul>
 </p>
+
