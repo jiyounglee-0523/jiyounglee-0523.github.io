@@ -37,7 +37,7 @@ profile_picture:
 </p>
 ### 2023
 
-2:45
+2:47
 
 - [VisAlign: Dataset for Measuring the Degree of Alignment between AI and Humans in Visual Perception](https://arxiv.org/abs/2308.01525)
 
