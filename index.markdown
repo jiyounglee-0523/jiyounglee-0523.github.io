@@ -35,12 +35,14 @@ profile_picture:
 <p>
 <h2> <strong>Publication</strong></h2>
 </p>
+3:31
+
 ### 2023
 
 <p>
     <ul>
     <li>
-        <a href="https://arxiv.org/abs/2308.01525"><font size ="5em">VisAlign: Dataset for Measuring the Degree of Alignment between AI and Humans in Visual Perception</font></a>
+        <a href="https://arxiv.org/abs/2308.01525"><font size ="4em">VisAlign: Dataset for Measuring the Degree of Alignment between AI and Humans in Visual Perception</font></a>
         <br />
         <b><u>Jiyoung Lee</u></b>, Seungho Kim, Seunghyun Won, Joonseok Lee, Marzyeh Ghassemi, James Thorne, Jaeseok Choi, O-Kil Kwon, Edward Choi
         <br />
@@ -52,6 +54,7 @@ profile_picture:
         </li>
 </ul>
 </p>
+
 
 <p>
     <ul>
