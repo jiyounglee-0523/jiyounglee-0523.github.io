@@ -35,10 +35,28 @@ profile_picture:
 <p>
 <h2> <strong>Publication</strong></h2>
 </p>
+<p>
+<h3> <strong>2024</strong></h3>
+</p>
+
+<p>
+    <ul>
+    <li>
+        <a href="https://arxiv.org/abs/2402.13605">KorNAT: LLM Alignment Benchmark for Korean Social Values and Common Knowledge</a>
+        <br />
+        <b><u>Jiyoung Lee</u></b>, Minwoo Kim, Seungho Kim, Junghwan Kim, Seunghyun Won, Hwaran Lee, Edward Choi
+        <br />
+        <i>arXiv:2402.13605</i>
+        <br />
+        [<a href="https://selectstar.ai/ko/papers-national-alignment">Project Page</a>]
+        </li>
+</ul>
+</p>
 
 <p>
 <h3> <strong>2023</strong></h3>
 </p>
+
 
 <p>
     <ul>
@@ -154,4 +172,3 @@ profile_picture:
         </li>
 </ul>
 </p>
-
