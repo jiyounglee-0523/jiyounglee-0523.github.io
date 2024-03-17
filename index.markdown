@@ -28,7 +28,7 @@ profile_picture:
 <p>
 <h2> <strong>Professional Service</strong></h2>
 </p>
-[*Sep 2023 - Present*] Advisory Committee Member at SelectStar AI NLP Team 
+[*Sep 2023 - Feb 2024*] Advisory Committee Member at SelectStar AI NLP Team LLM Dataset Construction
 
 &nbsp;
 
