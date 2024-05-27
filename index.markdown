@@ -9,11 +9,12 @@ profile_picture:
   I'm a ph.D student at KAIST Graduate School of AI, advised by Professor <a href="https://mp2893.com/">Edward Choi</a>.
   <br />
   <br />
-  I'm interested in Reliability, NLP and healthcare. I hope to make a reliable model that can be used safely in real world. 
+  I'm interested in reliability, interpretability, and measuring uncertainty especially in NLP. I hope to make a reliable method that can foster usage of AI models safely in real world. 
   Feel free to contact me!
   <br />
   e-mail: jiyounglee0523 at kaist.ac.kr
 </p>
+
 [<a href="https://scholar.google.com/citations?user=1TtwcikAAAAJ&hl=ko">Google Scholar</a>] [<a href="https://github.com/jiyounglee-0523">Github</a>] [<a href="https://jiyounglee-0523.github.io/assets/CV.pdf">CV</a>]
 
 &nbsp;
@@ -38,7 +39,6 @@ profile_picture:
 <p>
 <h3> <strong>2024</strong></h3>
 </p>
-
 <p>
     <ul>
     <li>
@@ -46,12 +46,13 @@ profile_picture:
         <br />
         <b><u>Jiyoung Lee</u></b>, Minwoo Kim, Seungho Kim, Junghwan Kim, Seunghyun Won, Hwaran Lee, Edward Choi
         <br />
-        <i>arXiv:2402.13605</i>
+        <i>In Findings in Association for Computational Linguistics (ACL) 2024</i>
         <br />
-        [<a href="https://selectstar.ai/ko/papers-national-alignment">Project Page</a>]
+        [<a href="https://huggingface.co/datasets/jiyounglee0523/KorNAT">Official Webpage</a>]
         </li>
 </ul>
 </p>
+
 
 <p>
 <h3> <strong>2023</strong></h3>
