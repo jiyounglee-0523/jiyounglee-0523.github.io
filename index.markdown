@@ -49,16 +49,17 @@ profile_picture:
         <i>In Findings in Association for Computational Linguistics (ACL) 2024</i>
         <br />
         [<a href="https://huggingface.co/datasets/jiyounglee0523/KorNAT">Official Webpage</a>]
+        [<a href="https://jiyounglee-0523.github.io/assets/posters/KorNAT.pdf">Poster</a>]
+        [<a href="https://jiyounglee-0523.github.io/assets/slides/KorNAT.pdf">Slide</a>]
         </li>
 </ul>
 </p>
 
 
+
 <p>
 <h3> <strong>2023</strong></h3>
 </p>
-
-
 <p>
     <ul>
     <li>
@@ -74,7 +75,6 @@ profile_picture:
         </li>
 </ul>
 </p>
-
 <p>
     <ul>
     <li>
@@ -82,10 +82,13 @@ profile_picture:
         <br />
         Woncheol Shin, Gyubok Lee, <b><u>Jiyoung Lee</u></b>, Eunyi Lyou, Joonseok Lee, Edward Choi
         <br />
-        <i>In Proc. of International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2023</i>
-        </li>
+        <i>In Proc. of International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2023</i> <b>(Oral Presentation, Top 3% Paper Recognition)</b>
+        <br/ >
+        [<a href="https://github.com/wcshin-git/TE-VQGAN">Code</a>]
+		</li>
 </ul>
 </p>
+
 
 
 
