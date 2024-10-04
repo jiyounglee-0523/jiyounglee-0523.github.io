@@ -6,14 +6,24 @@ profile_picture:
 ---
 
 <p>
-  I'm a ph.D student at KAIST Graduate School of AI, advised by Professor <a href="https://mp2893.com/">Edward Choi</a>.
+  I'm a 4-th year ph.D student at KAIST Graduate School of AI, advised by Professor <a href="https://mp2893.com/">Edward Choi</a>.
   <br />
   <br />
-  I'm interested in reliability, interpretability, and measuring uncertainty especially in NLP. I hope to make a reliable method that can foster usage of AI models safely in real world. 
-  Feel free to contact me!
-  <br />
-  e-mail: jiyounglee0523 at kaist.ac.kr
+    My research focuses on <b>assessing AI models before deployment to ensure they align with human values and perception</b> across multiple dimensions, including uncertainty, social ethics, and linguistic diversity.I primarily investigate whether (1) AI models exhibit robustness to human variations, such as dialects, and (2) they can recognize and interpret the world in a manner similar to humans.
+    <br/>
+    <br/>
+Through my work in constructing benchmarks, I have extensive experience in conducting human surveys involving over 6,000 participants, actively collaboration with experts from different fields, and applying statistical knowledge to build robust datasets. 
+    <br/>
+    <br/>
+    keywords: benchmarks construction, AI-human alignment, safety, social ethics
+    <br/>
+    <br/>
+    Feel free to contact me!
+    <br/>
+    e-mail: jiyounglee0523 at kaist dot ac dot kr
 </p>
+
+
 
 [<a href="https://scholar.google.com/citations?user=1TtwcikAAAAJ&hl=ko">Google Scholar</a>] [<a href="https://github.com/jiyounglee-0523">Github</a>] [<a href="https://jiyounglee-0523.github.io/assets/CV.pdf">CV</a>]
 
