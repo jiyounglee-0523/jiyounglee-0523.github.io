@@ -47,8 +47,28 @@ Through my work in constructing benchmarks, I have extensive experience in condu
 <h2> <strong>Publication</strong></h2>
 </p>
 <p>
-<h3> <strong>2024</strong></h3>
+<h3> <strong>2025</strong></h3>
 </p>
+<p>
+    <ul>
+    <li>
+        <a href="https://arxiv.org/abs/2410.09807">Single Ground Truth Is Not Enough: Add Linguistic Variability to Aspect-based Sentiment Analysis Evaluation</a>
+        <br />
+        Soyoung Yang, Hojun Cho, <b><u>Jiyoung Lee</u></b>, Sohee Yoon, Edward Choi, Jaegul Choo, Won Ik Cho
+        <br />
+        <i>In Proc. of Conference on Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) 2025</i>
+        <br />
+        </li>
+</ul>
+</p>
+
+
+
+
+
+
+<h3> <strong>2024</strong></h3>
+
 <p>
     <ul>
     <li>
@@ -64,6 +84,8 @@ Through my work in constructing benchmarks, I have extensive experience in condu
         </li>
 </ul>
 </p>
+
+
 
 
 
@@ -93,11 +115,11 @@ Through my work in constructing benchmarks, I have extensive experience in condu
         Woncheol Shin, Gyubok Lee, <b><u>Jiyoung Lee</u></b>, Eunyi Lyou, Joonseok Lee, Edward Choi
         <br />
         <i>In Proc. of International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2023</i> <b>(Oral Presentation, Top 3% Paper Recognition)</b>
-        <br/ >
         [<a href="https://github.com/wcshin-git/TE-VQGAN">Code</a>]
 		</li>
 </ul>
 </p>
+
 
 
 
