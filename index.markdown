@@ -24,7 +24,6 @@ Through my work in constructing benchmarks, I have extensive experience in condu
 </p>
 
 
-
 [<a href="https://scholar.google.com/citations?user=1TtwcikAAAAJ&hl=ko">Google Scholar</a>] [<a href="https://github.com/jiyounglee-0523">Github</a>] [<a href="https://jiyounglee-0523.github.io/assets/CV.pdf">CV</a>]
 
 &nbsp;
@@ -32,7 +31,7 @@ Through my work in constructing benchmarks, I have extensive experience in condu
 <p>
 <h2> <strong>Work Experience</strong></h2>
 </p>
-[*Feb - Aug 2022*] Research Intern at NAVER Corporation Papago Team
+[*Feb - Aug 2022*] Research Intern at NAVER Corporation Papago Team with mentor <a href="https://cbokpark.github.io/">Cheonbok Park</a>
 
 &nbsp;
 
