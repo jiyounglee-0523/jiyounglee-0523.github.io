@@ -32,9 +32,11 @@ Through my work in constructing benchmarks, I have extensive experience in condu
 <h2> <strong>Work Experience</strong></h2>
 </p>
 
-[_Sep - Dec 2025_] Research Engineer at EXAONE Lab, LG AI Research
+[_Jan - June 2026_] Research Intern at Social Computing Group, Microsoft Research Asia advised by <a href="https://www.microsoft.com/en-us/research/people/fangzwu/">Fangzhao Wu</a>
 
-[*Feb - Aug 2022*] Research Intern at Papago Team, NAVER Corporation with mentor <a href="https://cbokpark.github.io/">Cheonbok Park</a>
+[_Sep - Dec 2025_] Research Engineer at EXAONE Lab, LG AI Research advised by <a href="https://www.linkedin.com/in/heuiyeen-yeen-146b55236/">HeuiYeen Yeen</a> 
+
+[*Feb - Aug 2022*] Research Intern at Papago Team, NAVER Corporation advised by <a href="https://cbokpark.github.io/">Cheonbok Park</a>
 
 &nbsp;
 
