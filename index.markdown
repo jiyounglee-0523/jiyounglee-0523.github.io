@@ -31,7 +31,10 @@ Through my work in constructing benchmarks, I have extensive experience in condu
 <p>
 <h2> <strong>Work Experience</strong></h2>
 </p>
-[*Feb - Aug 2022*] Research Intern at NAVER Corporation Papago Team with mentor <a href="https://cbokpark.github.io/">Cheonbok Park</a>
+
+[_Sep - Dec 2025_] Research Engineer at EXAONE Lab, LG AI Research
+
+[*Feb - Aug 2022*] Research Intern at Papago Team, NAVER Corporation with mentor <a href="https://cbokpark.github.io/">Cheonbok Park</a>
 
 &nbsp;
 
@@ -47,6 +50,20 @@ Through my work in constructing benchmarks, I have extensive experience in condu
 </p>
 <p>
 <h3> <strong>2025</strong></h3>
+</p>
+<p>
+    <ul>
+    <li>
+        <a href="https://arxiv.org/abs/2505.20875">Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs Against English Varieties</a>
+        <br />
+        <b><u>Jiyoung Lee</u></b>, Seungho Kim, Jieun Han, Jun-Min Lee, Kitaek Kim, Alice Oh, Edward Choi
+        <br />
+        <i>In Proc. of Neural Information Processing Systems (NeurIPS) 2025 Datasets and Benchmarks</i>
+        <br />
+        [<a href="https://huggingface.co/collections/jiyounglee0523/transenv">Dataset</a>]
+        [<a href="https://github.com/jiyounglee-0523/TransEnV">Code</a>]
+        </li>
+</ul>
 </p>
 <p>
     <ul>
