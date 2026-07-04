@@ -58,6 +58,7 @@ header:
   pages:
     - name: Home
       slug: /     # <-- index.md
+    - name: About # <-- about.markdown
     - name: Blog  # <-- whatever.md
 
 footer:

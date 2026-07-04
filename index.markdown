@@ -9,10 +9,10 @@ profile_picture:
   I'm a 4-th year ph.D student at KAIST Graduate School of AI, advised by Professor <a href="https://mp2893.com/">Edward Choi</a>.
   <br />
   <br />
-    My research focuses on <b>assessing AI models before deployment to ensure they align with human values and perception</b> across multiple dimensions, including uncertainty, social ethics, and linguistic diversity.I primarily investigate whether (1) AI models exhibit robustness to human variations, such as dialects, and (2) they can recognize and interpret the world in a manner similar to humans.
+    My research focuses on <b>assessing AI models before deployment to ensure they align with human values and perception</b> across multiple dimensions, including uncertainty, social ethics, and linguistic diversity. I primarily investigate whether (1) AI models exhibit robustness to human variations, such as dialects, and (2) they can recognize and interpret the world in a manner similar to humans.
     <br/>
     <br/>
-Through my work in constructing benchmarks, I have extensive experience in conducting human surveys involving over 6,000 participants, actively collaboration with experts from different fields, and applying statistical knowledge to build robust datasets. 
+Through my work in constructing benchmarks, I have extensive experience conducting human surveys involving over 6,000 participants, actively collaborating with experts from different fields, and applying statistical methods to build robust datasets.
     <br/>
     <br/>
     keywords: benchmarks construction, AI-human alignment, safety, social ethics
