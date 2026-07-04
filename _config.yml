@@ -59,9 +59,6 @@ header:
   pages:
     - name: Home
       slug: /     # <-- index.md
-    - name: About # <-- about.markdown
-    - name: Publications # <-- publications.markdown
-    - name: Blog  # <-- whatever.md
 
 footer:
   show_powered_by: true
