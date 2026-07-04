@@ -2,7 +2,7 @@
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; -webkit-font-smoothing: antialiased; }
 
 /** Basic styling */
-body { font-family: Charter, Georgia, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.7; font-weight: 300; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
+body { font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.7; font-weight: 400; color: #1a1a1a; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure { margin-bottom: 15px; }
@@ -21,8 +21,11 @@ ul, ol { margin-left: 30px;}
 li > ul, li > ol { margin-bottom: 0; line-height:1.0}
 
 /** Headings */
-h1, h2, h3, h4, h5, h6 { font-weight: 300; font-family: "Futura", sans-serif; }
+h1, h2, h3, h4, h5, h6 { font-weight: 600; font-family: "Playfair Display", Georgia, serif; letter-spacing: -0.01em; }
 
+h1 { font-size: 2.2em; }
+h2 { font-size: 1.6em; margin-top: 1.2em; }
+h3 { font-size: 1.25em; margin-top: 1em; }
 h4 { font-size: 12px; }
 
 /** Links */
@@ -45,7 +48,7 @@ pre { padding: 8px 12px; overflow-x: scroll; }
 pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 /** Wrapper */
-.wrapper { max-width: -webkit-calc(900px - (30px * 2)); max-width: calc(900px - (30px * 2)); margin-right: auto; margin-left: auto; padding-right: 30px; padding-left: 30px; position: relative; }
+.wrapper { max-width: -webkit-calc(1180px - (30px * 2)); max-width: calc(1180px - (30px * 2)); margin-right: auto; margin-left: auto; padding-right: 30px; padding-left: 30px; position: relative; }
 
 @media screen and (max-width: 800px) { .wrapper { max-width: -webkit-calc(800px - (30px)); max-width: calc(800px - (30px)); padding-right: 15px; padding-left: 15px; } }
 

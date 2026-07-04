@@ -26,13 +26,15 @@ figure {
  * Basic styling
  */
 body {
-  font-family: $base-font-family;
-  font-size: $base-font-size;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 16px;
   line-height: $base-line-height;
-  font-weight: 300;
-  color: $text-color;
+  font-weight: 400;
+  color: #1a1a1a;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /**
@@ -99,13 +101,15 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 300;
-  font-family: "Futura", sans-serif;
+  font-weight: 600;
+  font-family: "Playfair Display", Georgia, serif;
+  letter-spacing: -0.01em;
 }
 
-h4 {
-  font-size: 12px;
-}
+h1 { font-size: 2.2em; }
+h2 { font-size: 1.6em; margin-top: 1.2em; }
+h3 { font-size: 1.25em; margin-top: 1em; }
+h4 { font-size: 12px; }
 
 /**
  * Links
@@ -170,8 +174,8 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(700px - (#{$spacing-unit} * 2));
-  max-width:         calc(700px - (#{$spacing-unit} * 2));
+  max-width: -webkit-calc(1180px - (#{$spacing-unit} * 2));
+  max-width:         calc(1180px - (#{$spacing-unit} * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: $spacing-unit;
