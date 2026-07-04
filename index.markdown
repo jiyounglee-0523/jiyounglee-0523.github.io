@@ -43,11 +43,9 @@ profile_picture:
 
 ## Publications
 
-Author names underlined and bolded (<b><u>Jiyoung Lee</u></b>) indicate my authorship. First-author papers are marked with **[First Author]**.
-
 ### 2025
 
-- **[First Author]** [Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs Against English Varieties](https://arxiv.org/abs/2505.20875)
+- [Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs Against English Varieties](https://arxiv.org/abs/2505.20875)
   <br />
   <b><u>Jiyoung Lee</u></b>, Seungho Kim, Jieun Han, Jun-Min Lee, Kitaek Kim, Alice Oh, Edward Choi
   <br />
@@ -63,7 +61,7 @@ Author names underlined and bolded (<b><u>Jiyoung Lee</u></b>) indicate my autho
 
 ### 2024
 
-- **[First Author]** [KorNAT: LLM Alignment Benchmark for Korean Social Values and Common Knowledge](https://arxiv.org/abs/2402.13605)
+- [KorNAT: LLM Alignment Benchmark for Korean Social Values and Common Knowledge](https://arxiv.org/abs/2402.13605)
   <br />
   <b><u>Jiyoung Lee</u></b>, Minwoo Kim, Seungho Kim, Junghwan Kim, Seunghyun Won, Hwaran Lee, Edward Choi
   <br />
@@ -73,7 +71,7 @@ Author names underlined and bolded (<b><u>Jiyoung Lee</u></b>) indicate my autho
 
 ### 2023
 
-- **[First Author]** [VisAlign: Dataset for Measuring the Degree of Alignment between AI and Humans in Visual Perception](https://arxiv.org/abs/2308.01525)
+- [VisAlign: Dataset for Measuring the Degree of Alignment between AI and Humans in Visual Perception](https://arxiv.org/abs/2308.01525)
   <br />
   <b><u>Jiyoung Lee</u></b>, Seungho Kim, Seunghyun Won, Joonseok Lee, Marzyeh Ghassemi, James Thorne, Jaeseok Choi, O-Kil Kwon, Edward Choi
   <br />
@@ -91,7 +89,7 @@ Author names underlined and bolded (<b><u>Jiyoung Lee</u></b>) indicate my autho
 
 ### 2022
 
-- **[First Author]** [Specializing Multi-domain NMT via Penalizing Low Mutual Information](https://arxiv.org/abs/2210.12910)
+- [Specializing Multi-domain NMT via Penalizing Low Mutual Information](https://arxiv.org/abs/2210.12910)
   <br />
   <b><u>Jiyoung Lee</u></b>, Hantae Kim, Hyunchang Cho, Edward Choi, Cheonbok Park
   <br />
@@ -99,7 +97,7 @@ Author names underlined and bolded (<b><u>Jiyoung Lee</u></b>) indicate my autho
   <br />
   [[Poster](/assets/posters/EMNLP2022.pdf)] [[Slide](/assets/slides/EMNLP2022.pdf)]
 
-- **[Co-First Author]** [Unifying Heterogenous Electronic Health Records Systems via Text-Based Code Embedding](https://arxiv.org/abs/2108.03625)
+- [Unifying Heterogenous Electronic Health Records Systems via Text-Based Code Embedding](https://arxiv.org/abs/2108.03625)
   <br />
   Kyunghoon Hur∗, <b><u>Jiyoung Lee</u></b>∗, Jungwoo Oh, Wesley Price, Young-Hak Kim, Edward Choi (∗ denotes equal contribution)
   <br />
@@ -115,7 +113,7 @@ Author names underlined and bolded (<b><u>Jiyoung Lee</u></b>) indicate my autho
 
 ### 2021
 
-- **[First Author]** [Conditional Generation of Periodic Signals with Fourier-Based Decoder](https://arxiv.org/abs/2110.12365)
+- [Conditional Generation of Periodic Signals with Fourier-Based Decoder](https://arxiv.org/abs/2110.12365)
   <br />
   <b><u>Jiyoung Lee</u></b>, Wonjae Kim, Daehoon Gwak, Edward Choi
   <br />
