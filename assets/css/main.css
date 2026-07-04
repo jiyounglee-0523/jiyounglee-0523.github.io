@@ -205,7 +205,7 @@ a { position: relative; transition: color 0.2s ease; }
 .home ul > li:hover, .page-content .wrapper ul > li:hover { transform: translateX(4px); background-color: rgba(42, 122, 226, 0.05); }
 
 /* Section headings: subtle accent underline that grows on hover */
-.home h2, .home h3, .page-content .wrapper h2, .page-content .wrapper h3 { position: relative; display: inline-block; }
+.home h2, .home h3, .page-content .wrapper h2, .page-content .wrapper h3 { position: relative; display: block; width: fit-content; max-width: 100%; }
 .home h2::after, .page-content .wrapper h2::after { content: ""; position: absolute; left: 0; bottom: -6px; height: 2px; width: 40px; background-color: #2a7ae2; transition: width 0.5s cubic-bezier(0.22, 1, 0.36, 1); }
 .home h2:hover::after, .page-content .wrapper h2:hover::after { width: 100%; }
 
