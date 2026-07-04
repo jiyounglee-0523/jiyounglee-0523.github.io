@@ -21,11 +21,12 @@
 title: Jiyoung Lee
 email: jiyounglee0523@kaist.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my site!
+  Jiyoung Lee — PhD student at KAIST Graduate School of AI researching AI evaluation, human-AI alignment, and linguistic diversity in LLMs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jiyounglee-0523.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+og_image: /assets/img/profile.jpg
+twitter_username: jiyounglee0523
+github_username:  jiyounglee-0523
 
 # Build settings
 markdown: kramdown
@@ -59,6 +60,7 @@ header:
     - name: Home
       slug: /     # <-- index.md
     - name: About # <-- about.markdown
+    - name: Publications # <-- publications.markdown
     - name: Blog  # <-- whatever.md
 
 footer:

@@ -1,25 +1,39 @@
 ---
 permalink: /404.html
 layout: default
+title: Page Not Found
 ---
 
 <style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
+  .not-found-container {
+    margin: 60px auto;
     max-width: 600px;
     text-align: center;
+    padding: 0 20px;
   }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
+  .not-found-container h1 {
+    margin: 30px 0 10px;
+    font-size: 6em;
     line-height: 1;
-    letter-spacing: -1px;
+    letter-spacing: -2px;
+  }
+  .not-found-container p {
+    font-size: 1.1em;
+    margin: 15px 0;
+  }
+  .not-found-container a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: 1px solid currentColor;
+    border-radius: 4px;
+    text-decoration: none;
   }
 </style>
 
-<div class="container">
+<div class="not-found-container">
   <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <p><strong>This page doesn't exist.</strong></p>
+  <p>The link may be broken, or the page may have moved.</p>
+  <a href="{{ '/' | absolute_url }}">← Back to home</a>
 </div>
