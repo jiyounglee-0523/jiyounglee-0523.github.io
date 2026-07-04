@@ -178,4 +178,44 @@ div.footnotes { font-size: 80%; }
 
 h1.not-found-title { margin: 30px 0; font-size: 4em; line-height: 1; letter-spacing: -1px; }
 
+/** ===================== Motion & interactivity ===================== */
+
+html { scroll-behavior: smooth; }
+
+/* Scroll-reveal: initial hidden state; JS toggles .reveal--visible */
+.reveal { opacity: 0; transform: translateY(14px); transition: opacity 0.7s cubic-bezier(0.22, 1, 0.36, 1), transform 0.7s cubic-bezier(0.22, 1, 0.36, 1); }
+.reveal--visible { opacity: 1; transform: translateY(0); }
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal, .reveal--visible { opacity: 1; transform: none; transition: none; }
+  html { scroll-behavior: auto; }
+}
+
+/* Links: animated underline */
+a { position: relative; transition: color 0.2s ease; }
+.home a:not(.profilepic-link), .page-content a { background-image: linear-gradient(currentColor, currentColor); background-position: 0 100%; background-repeat: no-repeat; background-size: 0 1px; transition: background-size 0.35s cubic-bezier(0.22, 1, 0.36, 1), color 0.2s ease; }
+.home a:hover, .page-content a:hover { background-size: 100% 1px; text-decoration: none; }
+
+/* Profile picture: gentle hover lift */
+.profilepic { transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.5s ease; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06); }
+.profilepic:hover { transform: translateY(-3px) scale(1.02); box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12); }
+
+/* Publication list items: hover slide + subtle background */
+.home ul > li, .page-content .wrapper ul > li { transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1), background-color 0.35s ease, padding-left 0.35s ease; border-radius: 4px; padding: 6px 8px; margin-left: -8px; }
+.home ul > li:hover, .page-content .wrapper ul > li:hover { transform: translateX(4px); background-color: rgba(42, 122, 226, 0.05); }
+
+/* Section headings: subtle accent underline that grows on hover */
+.home h2, .home h3, .page-content .wrapper h2, .page-content .wrapper h3 { position: relative; display: inline-block; }
+.home h2::after, .page-content .wrapper h2::after { content: ""; position: absolute; left: 0; bottom: -6px; height: 2px; width: 40px; background-color: #2a7ae2; transition: width 0.5s cubic-bezier(0.22, 1, 0.36, 1); }
+.home h2:hover::after, .page-content .wrapper h2:hover::after { width: 100%; }
+
+/* Nav links: animated underline */
+.site-nav .page-link { position: relative; transition: color 0.2s ease; }
+.site-nav .page-link::after { content: ""; position: absolute; left: 0; bottom: -4px; height: 1px; width: 0; background-color: currentColor; transition: width 0.3s cubic-bezier(0.22, 1, 0.36, 1); }
+.site-nav .page-link:hover::after { width: 100%; }
+
+/* Site title: subtle hover color shift */
+.site-title { transition: color 0.25s ease, letter-spacing 0.25s ease; }
+.site-title:hover { color: #2a7ae2; letter-spacing: -0.5px; }
+
 /*# sourceMappingURL=main.css.map */
