@@ -6,21 +6,22 @@ profile_picture:
 ---
 
 <p>
-  I'm a 4th-year PhD student at KAIST Graduate School of AI, advised by Professor <a href="https://mp2893.com/">Edward Choi</a>.
+  I'm a PhD student at KAIST Graduate School of AI, advised by Professor <a href="https://mp2893.com/">Edward Choi</a>.
+<br />
+  <br />
+  My research focuses on <b>ensuring the safety of AI systems in agentic settings</b>, where models plan, use tools, and act autonomously in the real world. I investigate emergent risks and failure modes that arise as AI agents interact with environments and people, and how to anticipate and mitigate them before deployment. Since what counts as safe or appropriate behavior varies across societies, I am also interested in how agents can act reliably and responsibly across diverse cultural contexts.
   <br />
   <br />
-  My research focuses on <b>assessing AI models before deployment to ensure they align with human values and perception</b> across multiple dimensions, including uncertainty, social ethics, and linguistic diversity. I primarily investigate whether (1) AI models exhibit robustness to human variations, such as dialects, and (2) they can recognize and interpret the world in a manner similar to humans.
+  Previously, I worked on assessing AI models before deployment across dimensions such as uncertainty, social ethics, and linguistic diversity. Through constructing benchmarks, I have extensive experience conducting human surveys involving over 6,000 participants, collaborating with experts from different fields, and applying statistical methods to build robust datasets.
   <br />
   <br />
-  Through my work in constructing benchmarks, I have extensive experience conducting human surveys involving over 6,000 participants, actively collaborating with experts from different fields, and applying statistical methods to build robust datasets.
-  <br />
-  <br />
-  keywords: benchmarks construction, AI-human alignment, safety, social ethics
+  keywords: agent safety, AI safety, cultural alignment, benchmark construction
   <br />
   <br />
   Feel free to contact me!
   <br />
   e-mail: jiyounglee0523 at kaist dot ac dot kr
+</br>
 </p>
 
 [<a href="https://scholar.google.com/citations?user=1TtwcikAAAAJ&hl=ko">Google Scholar</a>] [<a href="https://github.com/jiyounglee-0523">Github</a>] [<a href="/assets/CV.pdf">CV</a>]
@@ -28,9 +29,9 @@ profile_picture:
 &nbsp;
 
 ## Work Experience
-
-- *Jan – June 2026* — Research Intern at Social Computing Group, Microsoft Research Asia (advisor: [Fangzhao Wu](https://www.microsoft.com/en-us/research/people/fangzwu/))
-- *Sep – Dec 2025* — Research Engineer at EXAONE Lab, LG AI Research (advisor: [HeuiYeen Yeen](https://www.linkedin.com/in/heuiyeen-yeen-146b55236/))
+- *May 2025 – Present* — Research Engineer Intern at Eval Team, Upstage (advisor: [Seung (Tony) Shin](https://www.linkedin.com/in/seung-shin-846205a4/)) 
+- *Jan – April 2026* — Research Intern at Social Computing Group, Microsoft Research Asia (advisor: [Fangzhao Wu](https://www.microsoft.com/en-us/research/people/fangzwu/))
+- *Sep – Dec 2025* — Research Engineer Intern at EXAONE Lab, LG AI Research (advisor: [HeuiYeen Yeen](https://www.linkedin.com/in/heuiyeen-yeen-146b55236/))
 - *Feb – Aug 2022* — Research Intern at Papago Team, NAVER Corporation (advisor: [Cheonbok Park](https://cbokpark.github.io/))
 
 &nbsp;
